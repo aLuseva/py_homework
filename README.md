@@ -1,1 +1,1 @@
-# py_homework
+Homework 1 for Python
